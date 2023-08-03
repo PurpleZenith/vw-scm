@@ -1,4 +1,4 @@
-# Objective value = 7.1718582949200220e+09
+# Objective value = 7.1758888259200211e+09
 C0 0
 C1 0
 C2 0
