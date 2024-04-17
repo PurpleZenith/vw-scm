@@ -1,3 +1,5 @@
 # vw-scm
 
-Note: we are only considering the locations of DCs not both DCs and processing centers 
+MSCI 434 Supply Chain
+
+Given a list of VolksWagen dealers in America, determine how much stock should each Distribution Center hold 
